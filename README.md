@@ -23,14 +23,6 @@ Twilight Tales is a creative and fun web application that brings short, romantic
 
 ---
 
-## 📸 Screenshot
-
-![image](https://github.com/user-attachments/assets/862d69c9-626e-478d-b659-545c870e336a)
-![image](https://github.com/user-attachments/assets/c4441f13-31ca-4c87-840f-468975c5bd1c)
-![image](https://github.com/user-attachments/assets/fa152921-e91a-4c64-a85f-1fcc3213c474)
-
----
-
 ## 🔗 Live Demo
 
 🌐 [Twilight Tales Web App](https://twilight-tales.onrender.com)

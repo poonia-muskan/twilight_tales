@@ -4,7 +4,7 @@ Twilight Tales is a creative and fun web application that brings short, romantic
 
 ---
 
-## 🌟 Features
+### 🌟 Features
 
 - 📚 Select from multiple romantic story titles
 - 💖 Clean, modern and responsive UI
@@ -14,7 +14,7 @@ Twilight Tales is a creative and fun web application that brings short, romantic
 
 ---
 
-## 💻 Tech Stack
+### 💻 Tech Stack
 
 - **Frontend**: HTML, CSS  
 - **Backend**: Flask (Python)  
@@ -23,13 +23,13 @@ Twilight Tales is a creative and fun web application that brings short, romantic
 
 ---
 
-## 🔗 Live Demo
+### 🔗 Live Demo
 
 🌐 [Twilight Tales Web App](https://twilight-tales.onrender.com)
 
 ---
 
-## 🚀 How to Run Locally
+### 🚀 How to Run Locally
 
 ```bash
 git clone https://github.com/poonia-muskan/twilight-tales.git
